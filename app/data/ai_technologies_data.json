@@ -1,0 +1,435 @@
+{
+  "technologies": [
+    {
+      "name": "Generative AI",
+      "invention_year": 2017,
+      "years_to_mainstream": 5,
+      "milestones": [
+        {
+          "year": 2017,
+          "description": "Transformer architecture introduced by Google, enabling foundation models",
+          "adoption_percentage": null
+        },
+        {
+          "year": 2020,
+          "description": "GPT-3 released by OpenAI, demonstrating large language model capabilities",
+          "adoption_percentage": null
+        },
+        {
+          "year": 2022,
+          "description": "ChatGPT launched in November, reaching 100 million users in 2 months",
+          "adoption_percentage": null
+        },
+        {
+          "year": 2023,
+          "description": "GPT-4 and DALL-E 2 released, generative AI captures 48% of all AI funding",
+          "adoption_percentage": null
+        },
+        {
+          "year": 2024,
+          "description": "39.5% of US population aged 18-64 using generative AI, mainstream adoption achieved",
+          "adoption_percentage": 39.5
+        }
+      ],
+      "geographic_spread": {
+        "origin_region": "United States",
+        "spread_pattern": "US-led development, rapid global adoption via internet platforms",
+        "key_regions_timeline": {
+          "United_States": 2022,
+          "Europe": 2023,
+          "Asia": 2023,
+          "Global": 2024
+        }
+      },
+      "societal_impact": {
+        "economic_impact": "Projected $2.6-4.4 trillion annual economic value by 2030, transforming knowledge work",
+        "social_changes": "Democratized AI access, changed content creation, raised concerns about misinformation",
+        "productivity_gains": "60-70% of work activities potentially automatable, 0.1-0.6% annual productivity growth"
+      },
+      "growth_phases": [
+        {
+          "phase": "Research Foundation",
+          "years": "2017-2020",
+          "characteristics": "Transformer models, early GPT versions, academic research focus"
+        },
+        {
+          "phase": "Commercial Breakthrough",
+          "years": "2020-2022",
+          "characteristics": "GPT-3 API, early commercial applications, developer adoption"
+        },
+        {
+          "phase": "Mass Adoption",
+          "years": "2022-2024",
+          "characteristics": "ChatGPT viral growth, enterprise integration, regulatory attention"
+        }
+      ],
+      "investment_data": {
+        "early_investment": "OpenAI raised $1 billion from Microsoft in 2019",
+        "peak_investment_period": "2023-2024 with $14B raised by top 3 companies (OpenAI, Anthropic, Inflection)",
+        "economic_value": "Generative AI captured 48% of $42.5B total AI funding in 2023"
+      }
+    },
+    {
+      "name": "Machine Learning Recommendation Systems",
+      "invention_year": 2010,
+      "years_to_mainstream": 8,
+      "milestones": [
+        {
+          "year": 2010,
+          "description": "Early collaborative filtering systems deployed by Netflix and Amazon",
+          "adoption_percentage": null
+        },
+        {
+          "year": 2015,
+          "description": "Deep learning integration improves recommendation accuracy significantly",
+          "adoption_percentage": null
+        },
+        {
+          "year": 2018,
+          "description": "Widespread adoption across e-commerce and streaming platforms",
+          "adoption_percentage": null
+        },
+        {
+          "year": 2020,
+          "description": "COVID-19 accelerates adoption for personalized content and shopping",
+          "adoption_percentage": null
+        },
+        {
+          "year": 2023,
+          "description": "Market reaches $2.8 billion globally, mainstream enterprise adoption",
+          "adoption_percentage": 75
+        }
+      ],
+      "geographic_spread": {
+        "origin_region": "United States",
+        "spread_pattern": "US tech giants pioneered, global platform adoption",
+        "key_regions_timeline": {
+          "United_States": 2010,
+          "Europe": 2012,
+          "Asia_Pacific": 2014,
+          "Global": 2018
+        }
+      },
+      "societal_impact": {
+        "economic_impact": "Created personalized economy, $9.6B projected market by 2031",
+        "social_changes": "Changed consumer expectations for personalization, filter bubbles concern",
+        "productivity_gains": "Increased conversion rates by 10-30%, reduced search time for users"
+      },
+      "growth_phases": [
+        {
+          "phase": "Early Adoption",
+          "years": "2010-2015",
+          "characteristics": "Basic collaborative filtering, limited to tech giants"
+        },
+        {
+          "phase": "AI Enhancement",
+          "years": "2015-2020",
+          "characteristics": "Deep learning integration, improved accuracy, broader adoption"
+        },
+        {
+          "phase": "Ubiquitous Deployment",
+          "years": "2020-2024",
+          "characteristics": "Cross-industry adoption, real-time personalization, hybrid systems"
+        }
+      ],
+      "investment_data": {
+        "early_investment": "Netflix invested $150M in recommendation algorithms by 2012",
+        "peak_investment_period": "2020-2023 with enterprise AI adoption surge",
+        "economic_value": "Market growing at 28.5% CAGR, reaching $2.8B in 2023"
+      }
+    },
+    {
+      "name": "Computer Vision",
+      "invention_year": 2012,
+      "years_to_mainstream": 10,
+      "milestones": [
+        {
+          "year": 2012,
+          "description": "AlexNet wins ImageNet competition, deep learning breakthrough in image recognition",
+          "adoption_percentage": null
+        },
+        {
+          "year": 2016,
+          "description": "Autonomous vehicle testing begins with computer vision systems",
+          "adoption_percentage": null
+        },
+        {
+          "year": 2018,
+          "description": "Commercial deployment in retail, security, and manufacturing",
+          "adoption_percentage": null
+        },
+        {
+          "year": 2021,
+          "description": "Over $12 billion invested in autonomous vehicle computer vision",
+          "adoption_percentage": null
+        },
+        {
+          "year": 2022,
+          "description": "Mainstream adoption achieved across industries, 4.28 million industrial robots deployed",
+          "adoption_percentage": 60
+        }
+      ],
+      "geographic_spread": {
+        "origin_region": "United States",
+        "spread_pattern": "Academic research to commercial deployment, global manufacturing adoption",
+        "key_regions_timeline": {
+          "United_States": 2012,
+          "China": 2015,
+          "Europe": 2016,
+          "Global": 2020
+        }
+      },
+      "societal_impact": {
+        "economic_impact": "Enabled autonomous vehicles, smart manufacturing, medical imaging advances",
+        "social_changes": "Facial recognition privacy concerns, surveillance capabilities expansion",
+        "productivity_gains": "Automated visual inspection, 24/7 monitoring capabilities, quality control"
+      },
+      "growth_phases": [
+        {
+          "phase": "Deep Learning Breakthrough",
+          "years": "2012-2016",
+          "characteristics": "Academic research, ImageNet competitions, algorithm development"
+        },
+        {
+          "phase": "Commercial Applications",
+          "years": "2016-2020",
+          "characteristics": "Autonomous vehicles, security systems, mobile apps"
+        },
+        {
+          "phase": "Industrial Integration",
+          "years": "2020-2024",
+          "characteristics": "Manufacturing automation, healthcare diagnostics, retail analytics"
+        }
+      ],
+      "investment_data": {
+        "early_investment": "Google acquired DeepMind for $500M in 2014",
+        "peak_investment_period": "2021 with $12B+ in autonomous vehicle funding",
+        "economic_value": "$3.8B in AV financing solutions by 2024, growing robotics market"
+      }
+    },
+    {
+      "name": "Natural Language Processing",
+      "invention_year": 2013,
+      "years_to_mainstream": 7,
+      "milestones": [
+        {
+          "year": 2013,
+          "description": "Word2Vec introduces word embeddings, improving language understanding",
+          "adoption_percentage": null
+        },
+        {
+          "year": 2017,
+          "description": "Transformer architecture revolutionizes NLP, enabling better translation",
+          "adoption_percentage": null
+        },
+        {
+          "year": 2018,
+          "description": "BERT and GPT models demonstrate contextual understanding",
+          "adoption_percentage": null
+        },
+        {
+          "year": 2020,
+          "description": "Voice assistants reach 4.2 billion users globally, mainstream adoption",
+          "adoption_percentage": 50
+        },
+        {
+          "year": 2024,
+          "description": "NLP market reaches $20.66 billion, real-time translation widespread",
+          "adoption_percentage": 75
+        }
+      ],
+      "geographic_spread": {
+        "origin_region": "United States",
+        "spread_pattern": "US tech companies led, rapid global adoption via smartphones",
+        "key_regions_timeline": {
+          "United_States": 2013,
+          "Europe": 2015,
+          "Asia_Pacific": 2016,
+          "Global": 2018
+        }
+      },
+      "societal_impact": {
+        "economic_impact": "Enabled global communication, automated customer service, content creation",
+        "social_changes": "Broke down language barriers, changed human-computer interaction",
+        "productivity_gains": "Automated translation, voice interfaces, document processing"
+      },
+      "growth_phases": [
+        {
+          "phase": "Foundation Models",
+          "years": "2013-2017",
+          "characteristics": "Word embeddings, early neural networks, research focus"
+        },
+        {
+          "phase": "Transformer Revolution",
+          "years": "2017-2020",
+          "characteristics": "BERT, GPT, voice assistants, commercial deployment"
+        },
+        {
+          "phase": "Conversational AI",
+          "years": "2020-2024",
+          "characteristics": "ChatGPT, real-time translation, enterprise integration"
+        }
+      ],
+      "investment_data": {
+        "early_investment": "Google invested billions in Google Translate and Assistant",
+        "peak_investment_period": "2020-2024 with voice assistant and chatbot boom",
+        "economic_value": "NLP market growing at 21-29% CAGR, reaching $20.66B in 2024"
+      }
+    },
+    {
+      "name": "Robotics and Automation",
+      "invention_year": 2010,
+      "years_to_mainstream": 13,
+      "milestones": [
+        {
+          "year": 2010,
+          "description": "Industrial robots begin AI integration for adaptive manufacturing",
+          "adoption_percentage": null
+        },
+        {
+          "year": 2016,
+          "description": "Collaborative robots (cobots) introduced for human-robot interaction",
+          "adoption_percentage": null
+        },
+        {
+          "year": 2020,
+          "description": "COVID-19 accelerates automation adoption across industries",
+          "adoption_percentage": null
+        },
+        {
+          "year": 2023,
+          "description": "4.28 million industrial robots operational globally, 10% YoY growth",
+          "adoption_percentage": 45
+        },
+        {
+          "year": 2024,
+          "description": "Humanoid robots receive $1B+ investment, mainstream adoption emerging",
+          "adoption_percentage": 50
+        }
+      ],
+      "geographic_spread": {
+        "origin_region": "Japan/Germany",
+        "spread_pattern": "Industrial nations first, expanding to emerging markets",
+        "key_regions_timeline": {
+          "Japan": 2010,
+          "Germany": 2012,
+          "China": 2015,
+          "United_States": 2016,
+          "Global": 2020
+        }
+      },
+      "societal_impact": {
+        "economic_impact": "Transformed manufacturing, logistics, and service industries",
+        "social_changes": "Job displacement concerns, human-robot collaboration normalization",
+        "productivity_gains": "24/7 operations, precision manufacturing, dangerous task automation"
+      },
+      "growth_phases": [
+        {
+          "phase": "AI Integration",
+          "years": "2010-2016",
+          "characteristics": "Smart sensors, adaptive control, early AI capabilities"
+        },
+        {
+          "phase": "Collaborative Era",
+          "years": "2016-2020",
+          "characteristics": "Human-robot collaboration, safety systems, service robots"
+        },
+        {
+          "phase": "Intelligent Automation",
+          "years": "2020-2024",
+          "characteristics": "AI-powered decision making, humanoid development, autonomous systems"
+        }
+      ],
+      "investment_data": {
+        "early_investment": "Venture capital in robotics startups grew from $500M in 2010",
+        "peak_investment_period": "2021 with $12B+ funding, 2024 recovery to $4.5B+",
+        "economic_value": "Global robotics market reaching $42.82B in 2024, 12.17% CAGR"
+      }
+    },
+    {
+      "name": "Enterprise AI",
+      "invention_year": 2015,
+      "years_to_mainstream": 8,
+      "milestones": [
+        {
+          "year": 2015,
+          "description": "Early enterprise AI platforms launched for business analytics",
+          "adoption_percentage": null
+        },
+        {
+          "year": 2018,
+          "description": "Cloud-based AI services democratize enterprise access",
+          "adoption_percentage": null
+        },
+        {
+          "year": 2020,
+          "description": "COVID-19 drives digital transformation and AI adoption",
+          "adoption_percentage": null
+        },
+        {
+          "year": 2023,
+          "description": "78% of organizations using AI in at least one business function",
+          "adoption_percentage": 78
+        },
+        {
+          "year": 2024,
+          "description": "Enterprise AI market reaches $23.95 billion, mainstream adoption achieved",
+          "adoption_percentage": 80
+        }
+      ],
+      "geographic_spread": {
+        "origin_region": "United States",
+        "spread_pattern": "US tech companies led, global enterprise adoption",
+        "key_regions_timeline": {
+          "United_States": 2015,
+          "Europe": 2017,
+          "Asia_Pacific": 2018,
+          "Global": 2020
+        }
+      },
+      "societal_impact": {
+        "economic_impact": "Transformed business operations, data-driven decision making",
+        "social_changes": "Changed workplace dynamics, skill requirements evolution",
+        "productivity_gains": "Automated business processes, predictive analytics, intelligent workflows"
+      },
+      "growth_phases": [
+        {
+          "phase": "Early Platforms",
+          "years": "2015-2018",
+          "characteristics": "Custom AI solutions, high implementation costs, tech-savvy early adopters"
+        },
+        {
+          "phase": "Cloud Democratization",
+          "years": "2018-2021",
+          "characteristics": "SaaS AI platforms, reduced barriers, broader enterprise adoption"
+        },
+        {
+          "phase": "Mainstream Integration",
+          "years": "2021-2024",
+          "characteristics": "AI-first business strategies, workflow integration, competitive necessity"
+        }
+      ],
+      "investment_data": {
+        "early_investment": "Enterprise AI startups raised $2B+ annually by 2018",
+        "peak_investment_period": "2021-2024 with $252.3B total corporate AI investment in 2024",
+        "economic_value": "Market growing at 37.6% CAGR, projected to reach $155.2B by 2030"
+      }
+    }
+  ],
+  "metadata": {
+    "compilation_date": "2025-01-27",
+    "data_sources": [
+      "Stanford AI Index 2024",
+      "CB Insights State of AI 2023",
+      "McKinsey Economic Potential of Generative AI",
+      "Verified Market Research AI Reports",
+      "Grand View Research Enterprise AI Market",
+      "The Robot Report Investment Analysis",
+      "European Parliament AI Investment Report",
+      "Applied Intuition 2024 Review",
+      "Statista AI Skills Penetration Data",
+      "ZDNET AI Usage Statistics"
+    ],
+    "notes": "Data represents the modern AI era starting around 2010 with deep learning breakthroughs. Adoption percentages reflect enterprise/organizational adoption where available. Investment figures in USD billions. Geographic penetration reflects both development leadership and user adoption patterns."
+  }
+}
